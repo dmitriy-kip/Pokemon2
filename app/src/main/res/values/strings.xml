@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_pokemons">No pokemons found</string>
+    <string name="pikachu">pikachu</string>
+    <string name="height">Height</string>
+    <string name="n_45">45</string>
+    <string name="weight">Weight</string>
+    <string name="attack">attack</string>
+    <string name="defense">defense</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_menu_item">Pokemon Settings</string>
+    <string name="hp">hp</string>
+    <string name="refresh">Refresh</string>
+</resources>
